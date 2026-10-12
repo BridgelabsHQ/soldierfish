@@ -1,0 +1,13 @@
+{
+    "window.title": "needle ${dirty}${activeEditorShort}${separator}${rootName}${separator}${appName}",
+    "editor.tabSize": 4,
+    "editor.detectIndentation": false,
+    "typescript.tsdk": "node_modules\\typescript\\lib",
+    "typescript.preferences.importModuleSpecifier": "relative",
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": "explicit"
+    },
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "cSpell.words": ["injectables"]
+}
